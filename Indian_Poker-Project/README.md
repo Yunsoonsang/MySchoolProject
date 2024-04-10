@@ -147,5 +147,6 @@ while confirm :
 ---
 ![결과 이미지](etc/result01.JPG)
 ![결과 이미지](etc/result02.JPG)
+---
 **[소스코드](Game_Form.cs)**
 ---
